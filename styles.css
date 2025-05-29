@@ -77,8 +77,8 @@ body {
 }
 
 .hero img {
-  width: 4rem;
-  height: 4rem;
+  width: 5%;
+  height: 5%;
   object-fit: contain;
   transition: transform 0.3s ease;
 }
