@@ -68,17 +68,19 @@ body {
 }
 
 
-    .hero img {
+    /* .hero img {
   flex: 1 1 300px;
   display: flex;
   justify-content: center;
   min-width: 250px;
   padding: 1rem;
-    }
+    } */
 
-.hero-image img {
-  max-width: 250px;
-  border-radius: 1rem;
+.hero img {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  transition: transform 0.3s ease;
 }
 
     .hero-text {
