@@ -20,6 +20,15 @@ body.dark-mode {
   --text-color: #F9F9F9;
 }
 
+/* provisorio */
+#contrucao {
+    background-color: red; 
+    border: red;
+    color: white; 
+    text-align: center; 
+    padding: 10px;
+}
+
 body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
@@ -66,15 +75,6 @@ body {
   gap: 2rem;
   overflow-x: auto; 
 }
-
-
-    /* .hero img {
-  flex: 1 1 300px;
-  display: flex;
-  justify-content: center;
-  min-width: 250px;
-  padding: 1rem;
-    } */
 
 .hero img {
   width: 4rem;
